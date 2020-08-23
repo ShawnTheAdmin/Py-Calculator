@@ -1,4 +1,4 @@
-# Py-Image-Viewer
+# Py-Calculator
 A simple calculator app made using Tkinter and Python.
 
 ## Introduction
