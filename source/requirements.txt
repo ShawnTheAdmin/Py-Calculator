@@ -1,0 +1,2 @@
+# requirements - no specific version required
+tkinter
